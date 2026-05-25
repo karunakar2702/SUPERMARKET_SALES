@@ -1,0 +1,301 @@
+Invoice ID,Branch,Customer Type,Gender,Product Line,Unit Price,Quantity,Tax 5%,Total,Date,Payment,Gross Income
+ INV1000 ,A,Normal,Female,Food and beverages ,63.45,4.0,13.38,253.8,2024-04-01, Credit card,32.26
+INV1001,B,Normal,Male,Fashion accessories,43.23,3.0,8.0,129.69,2024-04-01, Credit card,46.34
+INV1002,C,Member,Female,Home and lifestyle,50.88,2.4655172413793105,17.42,125.44551724137932,2024-04-01, Credit card,21.3
+INV1003,B,Member,Female,Food and beverages ,59.37,1.0,9.99,59.37,2024-01-02,Ewallet ,37.66
+INV1004,B,Member,Female,Fashion accessories,59.4,2.4655172413793105,19.4,146.45172413793105,2024-03-01,Ewallet ,45.25
+ INV1005 ,B,Member,Male, Electronic accessories ,28.16,1.0,4.52,28.16,2024-01-02, Credit card,25.52
+INV1006,C,Normal,Female,Home and lifestyle,71.61,2.0,17.5,143.22,2024-03-01,Ewallet ,24.96
+INV1007,C,Normal,Female,Food and beverages ,17.91,1.0,15.76,17.91,2024-01-01,Cash,32.1
+INV1008,C,Normal,Female,Health & Beauty,22.49,4.0,15.65,89.96,2024-04-01,Cash,31.61
+INV1009,B,Normal,Female, Electronic accessories ,10.24,3.0,17.05,30.72,2024-01-02, Credit card,28.889285714285716
+ INV1010 ,A,Normal,Male, Electronic accessories ,20.5,2.0,15.46,41.0,2024-03-01,Cash,26.44
+INV1011,C,Normal,Female,Fashion accessories,52.58,1.0,12.9,52.58,2024-01-01, Credit card,28.889285714285716
+INV1012,C,Member,Male, Electronic accessories ,64.55,2.4655172413793105,3.49,159.1491379310345,2024-01-01, Credit card,7.68
+INV1013,B,Normal,Male,Home and lifestyle,81.49,2.0,1.62,162.98,2024-04-01,Cash,5.14
+INV1014,B,Member,Male,Food and beverages ,19.6,2.0,18.5,39.2,2024-03-01,Ewallet ,33.81
+ INV1015 ,A,Member,Male,Food and beverages ,86.57,1.0,12.72,86.57,2024-01-02,Cash,18.43
+INV1016,C,Normal,Male,Health & Beauty,77.14,2.0,16.13,154.28,2024-04-01,Cash,15.82
+INV1017,C,Member,Male,Fashion accessories,46.77,2.4655172413793105,10.15,115.31224137931036,2024-01-02, Credit card,19.04
+INV1018,B,Normal,Female,Health & Beauty,93.96,2.0,3.23,187.92,2024-01-01, Credit card,16.52
+INV1019,A,Member,Male, Electronic accessories ,99.18,2.4655172413793105,3.38,244.53000000000003,2024-01-02, Credit card,6.39
+ INV1020 ,B,Normal,Male,Health & Beauty,28.45,1.0,14.03,28.45,2024-01-02, Credit card,48.72
+INV1021,A,Member,Male,Home and lifestyle,44.13,3.0,9.18,132.39000000000001,2024-04-01,Ewallet ,14.93
+INV1022,A,Normal,Female,Food and beverages ,93.38,2.0,4.81,186.76,2024-01-02,Ewallet ,38.03
+INV1023,B,Normal,Female, Electronic accessories ,74.94,3.0,10.34,224.82,2024-04-01,Ewallet ,39.32
+INV1024,C,Normal,Male,Health & Beauty,14.33,2.4655172413793105,2.22,35.33086206896552,2024-01-01, Credit card,46.82
+ INV1025 ,B,Normal,Female,Fashion accessories,80.34,2.0,12.06,160.68,2024-04-01, Credit card,6.37
+INV1026,A,Normal,Male,Home and lifestyle,84.51,4.0,6.11,338.04,2024-04-01, Credit card,44.24
+INV1027,A,Member,Male,Home and lifestyle,77.55,3.0,16.15,232.64999999999998,2024-03-01,Ewallet ,28.73
+INV1028,A,Member,Female,Health & Beauty,81.96,2.0,6.9,163.92,2024-01-02, Credit card,28.889285714285716
+INV1029,C,Member,Male,Food and beverages ,84.26,3.0,9.65,252.78000000000003,2024-01-01,Cash,34.0
+ INV1030 ,C,Normal,Female,Health & Beauty,26.78,2.0,1.22,53.56,2024-04-01,Cash,28.889285714285716
+INV1031,B,Member,Female, Electronic accessories ,31.21,1.0,2.38,31.21,2024-01-01, Credit card,20.0
+INV1032,A,Normal,Male,Health & Beauty,67.04,3.0,8.46,201.12,2024-03-01,Cash,37.99
+INV1033,A,Normal,Male,Home and lifestyle,91.71,4.0,10.12,366.84,2024-01-02,Cash,28.79
+INV1034,C,Member,Female,Health & Beauty,38.46,4.0,12.4,153.84,2024-04-01,Ewallet ,28.889285714285716
+ INV1035 ,C,Member,Male,Food and beverages ,62.95,2.4655172413793105,6.54,155.2043103448276,2024-01-02, Credit card,49.57
+INV1036,C,Normal,Male,Fashion accessories,71.47,2.0,14.2,142.94,2024-03-01, Credit card,14.03
+INV1037,C,Member,Male,Sports and travel,50.68,3.0,17.34,152.04,2024-03-01,Ewallet ,49.76
+INV1038,A,Normal,Female,Health & Beauty,74.24,2.4655172413793105,15.82,183.04,2024-01-01,Cash,28.889285714285716
+INV1039,A,Normal,Female,Food and beverages ,90.97,3.0,1.75,272.90999999999997,2024-04-01,Cash,5.1
+ INV1040 ,A,Normal,Male,Food and beverages ,66.17,2.0,10.13,132.34,2024-01-01, Credit card,6.99
+INV1041,C,Normal,Female,Fashion accessories,58.58,4.0,2.99,234.32,2024-03-01,Cash,20.38
+INV1042,B,Normal,Female,Home and lifestyle,49.49,1.0,5.6,49.49,2024-01-02,Ewallet ,33.48
+INV1043,C,Member,Female,Food and beverages ,61.97,4.0,19.75,247.88,2024-01-01,Ewallet ,8.11
+INV1044,B,Member,Female,Food and beverages ,41.98,2.4655172413793105,3.71,103.50241379310344,2024-01-01, Credit card,5.25
+ INV1045 ,A,Normal,Female,Food and beverages ,45.23,1.0,10.48,45.23,2024-01-02,Ewallet ,47.17
+INV1046,B,Normal,Male,Food and beverages ,57.87,2.4655172413793105,12.74,142.67948275862068,2024-01-01,Ewallet ,41.99
+INV1047,A,Member,Male, Electronic accessories ,16.0,2.0,14.35,32.0,2024-01-02, Credit card,41.41
+INV1048,A,Member,Male, Electronic accessories ,30.61,1.0,11.63,30.61,2024-04-01,Ewallet ,44.8
+INV1049,A,Normal,Female,Home and lifestyle,58.86,2.4655172413793105,1.19,145.12034482758622,2024-01-02,Ewallet ,36.5
+ INV1050 ,C,Member,Female,Health & Beauty,48.84,2.0,7.2,97.68,2024-04-01,Ewallet ,9.7
+INV1051,B,Normal,Male,Food and beverages ,39.95,4.0,10.84,159.8,2024-01-02,Cash,22.96
+INV1052,B,Member,Female,Fashion accessories,75.75,2.0,2.67,151.5,2024-03-01, Credit card,37.54
+INV1053,A,Normal,Male,Health & Beauty,72.43,3.0,7.66,217.29000000000002,2024-03-01, Credit card,17.62
+INV1054,B,Member,Male,Fashion accessories,25.01,2.0,1.63,50.02,2024-04-01, Credit card,35.93
+ INV1055 ,B,Normal,Male,Health & Beauty,89.08,2.0,2.49,178.16,2024-04-01,Cash,6.1
+INV1056,B,Member,Female,Home and lifestyle,54.59,3.0,8.54,163.77,2024-03-01,Cash,18.78
+INV1057,A,Member,Female,Food and beverages ,76.73,2.4655172413793105,3.52,189.17913793103452,2024-04-01, Credit card,29.71
+INV1058,A,Normal,Male,Food and beverages ,61.58,2.4655172413793105,11.78,151.82655172413794,2024-01-02,Cash,28.889285714285716
+INV1059,A,Member,Male,Sports and travel,99.79,2.0,14.1,199.58,2024-01-02, Credit card,30.97
+ INV1060 ,A,Normal,Male,Fashion accessories,77.72,3.0,16.21,233.16,2024-03-01,Cash,28.889285714285716
+INV1061,B,Member,Male,Health & Beauty,73.63,3.0,4.8,220.89,2024-01-01,Ewallet ,5.27
+INV1062,C,Normal,Female,Health & Beauty,80.07,4.0,4.18,320.28,2024-01-02,Ewallet ,28.889285714285716
+INV1063,C,Member,Female, Electronic accessories ,22.88,2.4655172413793105,2.99,56.41103448275862,2024-04-01, Credit card,44.1
+INV1064,A,Normal,Male,Sports and travel,28.41,1.0,13.09,28.41,2024-01-01,Cash,28.889285714285716
+ INV1065 ,A,Member,Male, Electronic accessories ,74.27,2.4655172413793105,14.42,183.11396551724138,2024-01-01,Cash,10.08
+INV1066,B,Normal,Female, Electronic accessories ,54.46,2.4655172413793105,1.6,134.27206896551726,2024-01-02,Ewallet ,42.89
+INV1067,A,Member,Female, Electronic accessories ,77.92,4.0,18.79,311.68,2024-01-02,Ewallet ,15.9
+INV1068,B,Normal,Male,Fashion accessories,19.26,1.0,1.99,19.26,2024-01-01,Cash,26.52
+INV1069,C,Normal,Male,Fashion accessories,58.28,4.0,11.28,233.12,2024-01-01,Cash,11.53
+ INV1070 ,C,Normal,Male,Home and lifestyle,44.09,1.0,14.47,44.09,2024-03-01,Cash,36.95
+INV1071,C,Member,Female,Home and lifestyle,51.13,2.0,17.55,102.26,2024-04-01,Cash,35.01
+INV1072,B,Normal,Female, Electronic accessories ,64.36,1.0,14.57,64.36,2024-03-01,Cash,14.5
+INV1073,A,Member,Female,Sports and travel,55.21,4.0,16.23,220.84,2024-01-02,Cash,43.85
+INV1074,C,Normal,Male,Health & Beauty,58.59,2.4655172413793105,7.45,144.45465517241382,2024-03-01, Credit card,23.06
+ INV1075 ,B,Member,Male,Fashion accessories,53.77,1.0,16.48,53.77,2024-03-01,Cash,18.16
+INV1076,B,Normal,Female,Sports and travel,46.81,1.0,2.52,46.81,2024-03-01,Ewallet ,11.85
+INV1077,B,Member,Female,Food and beverages ,79.47,3.0,18.0,238.41,2024-03-01, Credit card,16.98
+INV1078,A,Member,Male,Fashion accessories,11.1,2.4655172413793105,11.4,27.367241379310347,2024-04-01,Cash,5.99
+INV1079,B,Normal,Female,Fashion accessories,63.86,2.0,16.53,127.72,2024-04-01,Ewallet ,31.25
+ INV1080 ,B,Member,Female,Home and lifestyle,60.9,4.0,9.59,243.6,2024-01-01, Credit card,42.9
+INV1081,C,Member,Male,Health & Beauty,74.46,2.0,13.23,148.92,2024-01-02,Ewallet ,29.7
+INV1082,A,Normal,Female,Health & Beauty,63.91,2.4655172413793105,11.0,157.57120689655173,2024-03-01,Cash,14.87
+INV1083,C,Member,Male,Food and beverages ,84.41,1.0,14.9,84.41,2024-01-01,Cash,6.52
+INV1084,C,Member,Male,Food and beverages ,96.32,1.0,2.55,96.32,2024-01-01,Cash,14.66
+ INV1085 ,A,Member,Male,Fashion accessories,40.83,2.4655172413793105,2.15,100.66706896551725,2024-01-01,Cash,23.73
+INV1086,A,Normal,Male, Electronic accessories ,30.46,1.0,5.69,30.46,2024-04-01, Credit card,39.18
+INV1087,C,Member,Male,Home and lifestyle,48.12,1.0,4.03,48.12,2024-03-01, Credit card,28.889285714285716
+INV1088,B,Normal,Male,Home and lifestyle,35.91,1.0,17.56,35.91,2024-03-01,Ewallet ,28.889285714285716
+INV1089,B,Member,Male,Fashion accessories,65.35,4.0,5.17,261.4,2024-01-02,Cash,44.01
+ INV1090 ,B,Member,Female,Sports and travel,92.07,4.0,19.54,368.28,2024-03-01,Ewallet ,25.43
+INV1091,B,Member,Male, Electronic accessories ,22.52,3.0,7.4,67.56,2024-03-01, Credit card,41.96
+INV1092,B,Normal,Male,Fashion accessories,19.07,2.0,4.46,38.14,2024-01-01,Cash,29.96
+INV1093,A,Member,Female, Electronic accessories ,33.04,2.4655172413793105,16.0,81.46068965517242,2024-01-02,Cash,33.67
+INV1094,A,Member,Female, Electronic accessories ,75.35,2.4655172413793105,13.52,185.77672413793104,2024-03-01, Credit card,28.68
+ INV1095 ,A,Normal,Female, Electronic accessories ,63.37,2.4655172413793105,10.47,156.2398275862069,2024-04-01, Credit card,25.84
+INV1096,A,Member,Male,Fashion accessories,19.2,3.0,11.55,57.599999999999994,2024-03-01, Credit card,15.56
+INV1097,B,Normal,Female,Home and lifestyle,92.69,4.0,14.66,370.76,2024-01-01, Credit card,18.64
+INV1098,A,Normal,Male,Home and lifestyle,81.11,3.0,5.34,243.32999999999998,2024-04-01, Credit card,18.05
+INV1099,B,Member,Male, Electronic accessories ,12.07,2.4655172413793105,19.93,29.75879310344828,2024-01-01,Cash,30.35
+ INV1100 ,B,Normal,Male,Sports and travel,68.62,2.0,19.52,137.24,2024-03-01, Credit card,10.4
+INV1101,A,Member,Male,Health & Beauty,79.41,1.0,13.36,79.41,2024-04-01,Cash,46.26
+INV1102,A,Normal,Female,Fashion accessories,43.7,4.0,4.79,174.8,2024-01-02,Cash,28.889285714285716
+INV1103,A,Normal,Female,Health & Beauty,16.2,4.0,13.92,64.8,2024-01-02, Credit card,23.07
+INV1104,A,Member,Male,Sports and travel,16.96,3.0,2.37,50.88,2024-04-01, Credit card,12.14
+ INV1105 ,A,Normal,Male,Fashion accessories,19.38,4.0,1.58,77.52,2024-04-01,Cash,44.69
+INV1106,C,Normal,Male, Electronic accessories ,85.64,2.4655172413793105,5.9,211.14689655172415,2024-01-01, Credit card,42.07
+INV1107,C,Normal,Female,Home and lifestyle,91.96,2.4655172413793105,9.79,226.7289655172414,2024-04-01, Credit card,37.48
+INV1108,A,Normal,Male,Health & Beauty,21.05,3.0,17.5,63.150000000000006,2024-01-01, Credit card,17.22
+INV1109,C,Normal,Male,Food and beverages ,31.23,2.4655172413793105,14.82,76.99810344827587,2024-03-01,Ewallet ,23.11
+ INV1110 ,C,Member,Female,Food and beverages ,24.9,2.0,15.11,49.8,2024-01-01,Cash,28.889285714285716
+INV1111,A,Normal,Female,Sports and travel,26.77,3.0,9.08,80.31,2024-04-01,Ewallet ,13.51
+INV1112,C,Member,Male, Electronic accessories ,85.37,2.0,7.57,170.74,2024-04-01, Credit card,40.24
+INV1113,B,Normal,Female,Health & Beauty,39.89,1.0,8.05,39.89,2024-03-01,Ewallet ,37.18
+INV1114,B,Member,Female, Electronic accessories ,38.03,2.0,19.77,76.06,2024-04-01, Credit card,31.71
+ INV1115 ,B,Member,Male,Health & Beauty,30.47,1.0,1.76,30.47,2024-04-01,Ewallet ,45.31
+INV1116,A,Normal,Female,Sports and travel,64.71,1.0,17.47,64.71,2024-01-02, Credit card,31.25
+INV1117,A,Normal,Male,Sports and travel,44.14,2.0,11.99,88.28,2024-01-02,Ewallet ,26.01
+INV1118,A,Normal,Female,Food and beverages ,76.98,3.0,9.33,230.94,2024-03-01,Ewallet ,28.889285714285716
+INV1119,A,Member,Male, Electronic accessories ,28.5,2.4655172413793105,14.78,70.26724137931035,2024-01-01,Ewallet ,47.32
+ INV1120 ,B,Normal,Male,Fashion accessories,80.9,2.4655172413793105,10.25,199.46034482758623,2024-01-02,Cash,28.889285714285716
+INV1121,A,Member,Male,Food and beverages ,64.33,1.0,17.6,64.33,2024-01-01,Ewallet ,46.89
+INV1122,C,Member,Female, Electronic accessories ,20.28,1.0,18.11,20.28,2024-04-01,Cash,42.2
+INV1123,B,Member,Male,Food and beverages ,47.31,3.0,9.01,141.93,2024-01-02, Credit card,10.85
+INV1124,C,Normal,Female,Fashion accessories,87.72,4.0,6.26,350.88,2024-03-01,Ewallet ,30.42
+ INV1125 ,A,Normal,Male,Home and lifestyle,93.07,2.0,12.25,186.14,2024-03-01, Credit card,43.99
+INV1126,C,Member,Male,Home and lifestyle,51.91,1.0,18.33,51.91,2024-03-01, Credit card,30.73
+INV1127,C,Member,Female,Home and lifestyle,53.28,2.4655172413793105,5.0,131.36275862068968,2024-01-02,Ewallet ,45.82
+INV1128,C,Normal,Male,Home and lifestyle,92.66,3.0,12.84,277.98,2024-01-01,Cash,47.43
+INV1129,A,Member,Male,Health & Beauty,62.84,2.0,13.0,125.68,2024-04-01,Ewallet ,24.01
+ INV1130 ,C,Normal,Female,Home and lifestyle,12.96,3.0,14.93,38.88,2024-01-01, Credit card,21.98
+INV1131,B,Member,Male,Fashion accessories,92.15,2.0,3.5,184.3,2024-01-01, Credit card,47.13
+INV1132,C,Normal,Male,Sports and travel,32.34,2.0,14.6,64.68,2024-04-01,Ewallet ,35.38
+INV1133,C,Member,Male,Sports and travel,61.99,1.0,18.27,61.99,2024-04-01,Cash,10.22
+INV1134,A,Normal,Male,Health & Beauty,24.9,3.0,4.41,74.69999999999999,2024-01-02,Cash,6.9
+ INV1135 ,B,Member,Female,Home and lifestyle,13.05,3.0,5.51,39.150000000000006,2024-01-02, Credit card,28.889285714285716
+INV1136,B,Normal,Female,Home and lifestyle,38.03,2.4655172413793105,19.46,93.76362068965518,2024-01-02, Credit card,46.86
+INV1137,C,Normal,Male,Home and lifestyle,80.24,2.4655172413793105,4.44,197.83310344827586,2024-01-02,Cash,42.99
+INV1138,C,Member,Female,Food and beverages ,34.98,1.0,17.23,34.98,2024-01-02,Ewallet ,28.889285714285716
+INV1139,A,Member,Male, Electronic accessories ,29.81,1.0,10.35,29.81,2024-04-01, Credit card,11.26
+ INV1140 ,B,Normal,Female,Food and beverages ,29.14,4.0,5.7,116.56,2024-01-01,Cash,16.44
+INV1141,B,Member,Male, Electronic accessories ,56.37,2.4655172413793105,17.54,138.98120689655173,2024-01-02, Credit card,44.4
+INV1142,A,Normal,Male,Home and lifestyle,97.8,2.0,9.46,195.6,2024-01-02,Ewallet ,13.23
+INV1143,B,Member,Male,Home and lifestyle,51.31,3.0,10.78,153.93,2024-01-01,Cash,17.53
+INV1144,C,Normal,Male,Food and beverages ,60.16,1.0,7.83,60.16,2024-01-02, Credit card,28.889285714285716
+ INV1145 ,A,Normal,Male,Food and beverages ,87.46,3.0,12.27,262.38,2024-01-01,Ewallet ,35.42
+INV1146,A,Normal,Male, Electronic accessories ,58.16,3.0,4.11,174.48,2024-01-01, Credit card,47.48
+INV1147,B,Normal,Female,Sports and travel,26.6,4.0,8.43,106.4,2024-04-01,Ewallet ,17.1
+INV1148,A,Normal,Male, Electronic accessories ,36.96,2.4655172413793105,19.42,91.12551724137931,2024-03-01,Ewallet ,26.39
+INV1149,C,Normal,Female,Food and beverages ,37.89,1.0,5.9,37.89,2024-04-01,Cash,33.55
+ INV1150 ,B,Member,Male,Fashion accessories,45.76,3.0,13.48,137.28,2024-03-01,Ewallet ,49.98
+INV1151,B,Member,Female,Food and beverages ,48.41,1.0,7.18,48.41,2024-03-01, Credit card,9.72
+INV1152,C,Member,Female,Fashion accessories,81.98,2.0,15.7,163.96,2024-03-01,Ewallet ,27.44
+INV1153,B,Normal,Female,Health & Beauty,41.44,4.0,3.49,165.76,2024-01-02,Ewallet ,22.33
+INV1154,A,Normal,Male,Food and beverages ,52.14,2.0,19.43,104.28,2024-04-01,Cash,43.96
+ INV1155 ,B,Normal,Male,Health & Beauty,66.25,1.0,9.62,66.25,2024-03-01,Ewallet ,26.42
+INV1156,C,Normal,Female,Sports and travel,44.0,1.0,5.48,44.0,2024-01-01,Ewallet ,9.99
+INV1157,C,Member,Male, Electronic accessories ,85.29,2.4655172413793105,2.4,210.2839655172414,2024-01-02, Credit card,33.55
+INV1158,C,Member,Female,Fashion accessories,62.87,3.0,4.23,188.60999999999999,2024-04-01,Cash,39.69
+INV1159,A,Normal,Male, Electronic accessories ,36.46,3.0,10.88,109.38,2024-03-01,Cash,5.13
+ INV1160 ,B,Member,Female,Health & Beauty,74.27,2.0,7.4,148.54,2024-01-01,Cash,43.65
+INV1161,B,Member,Female,Fashion accessories,57.49,4.0,16.75,229.96,2024-04-01,Ewallet ,13.37
+INV1162,B,Normal,Male, Electronic accessories ,58.1,3.0,9.19,174.3,2024-04-01,Cash,29.84
+INV1163,C,Member,Female,Food and beverages ,53.3,2.4655172413793105,5.73,131.41206896551725,2024-01-02,Ewallet ,23.71
+INV1164,A,Normal,Male,Home and lifestyle,54.73,2.0,12.73,109.46,2024-04-01,Ewallet ,37.38
+ INV1165 ,B,Member,Female,Health & Beauty,78.88,2.0,14.43,157.76,2024-01-02, Credit card,21.7
+INV1166,C,Normal,Female, Electronic accessories ,19.27,2.4655172413793105,4.17,47.51051724137931,2024-03-01, Credit card,44.14
+INV1167,A,Normal,Male,Health & Beauty,40.09,4.0,4.18,160.36,2024-01-02, Credit card,37.87
+INV1168,A,Normal,Male,Health & Beauty,16.8,2.4655172413793105,1.7,41.42068965517242,2024-01-01, Credit card,34.15
+INV1169,A,Normal,Male,Fashion accessories,77.79,4.0,14.99,311.16,2024-01-02, Credit card,40.83
+ INV1170 ,A,Member,Female,Fashion accessories,34.51,2.4655172413793105,13.61,85.085,2024-01-01,Ewallet ,28.889285714285716
+INV1171,A,Normal,Male,Home and lifestyle,90.77,2.4655172413793105,10.02,223.79500000000002,2024-01-02,Ewallet ,6.62
+INV1172,C,Normal,Female,Food and beverages ,57.39,1.0,17.04,57.39,2024-04-01,Cash,22.76
+INV1173,C,Normal,Female,Health & Beauty,82.07,2.0,16.31,164.14,2024-03-01,Ewallet ,46.89
+INV1174,C,Member,Male, Electronic accessories ,98.1,2.4655172413793105,12.12,241.86724137931034,2024-01-01,Ewallet ,10.66
+ INV1175 ,B,Normal,Male,Sports and travel,85.58,2.4655172413793105,17.5,210.9989655172414,2024-01-02, Credit card,38.17
+INV1176,A,Member,Female,Health & Beauty,88.03,3.0,4.91,264.09000000000003,2024-01-02,Ewallet ,48.86
+INV1177,A,Normal,Female,Health & Beauty,46.72,2.0,3.13,93.44,2024-01-02, Credit card,28.889285714285716
+INV1178,C,Member,Male,Home and lifestyle,59.66,3.0,6.13,178.98,2024-04-01,Cash,35.7
+INV1179,A,Member,Male,Food and beverages ,32.85,2.0,2.08,65.7,2024-04-01,Cash,26.07
+ INV1180 ,A,Normal,Male,Sports and travel,27.65,3.0,11.09,82.94999999999999,2024-01-01,Ewallet ,31.06
+INV1181,A,Member,Male,Fashion accessories,55.5,2.4655172413793105,18.8,136.83620689655174,2024-01-01,Cash,28.889285714285716
+INV1182,C,Normal,Male,Fashion accessories,63.55,2.4655172413793105,1.75,156.68362068965519,2024-04-01,Ewallet ,6.94
+INV1183,C,Normal,Female, Electronic accessories ,40.53,1.0,3.32,40.53,2024-01-01,Cash,35.01
+INV1184,A,Normal,Female,Sports and travel,61.25,3.0,9.59,183.75,2024-03-01, Credit card,42.05
+ INV1185 ,A,Member,Female,Fashion accessories,89.87,4.0,18.74,359.48,2024-03-01, Credit card,40.19
+INV1186,B,Member,Female, Electronic accessories ,60.1,1.0,7.01,60.1,2024-04-01, Credit card,29.47
+INV1187,A,Normal,Male,Food and beverages ,74.87,3.0,10.64,224.61,2024-01-01, Credit card,9.49
+INV1188,C,Normal,Male, Electronic accessories ,82.48,3.0,1.79,247.44,2024-01-02,Ewallet ,35.96
+INV1189,C,Member,Male,Fashion accessories,98.99,1.0,3.82,98.99,2024-03-01,Cash,15.88
+ INV1190 ,C,Normal,Female,Home and lifestyle,64.29,2.4655172413793105,19.75,158.50810344827588,2024-04-01,Ewallet ,28.889285714285716
+INV1191,A,Normal,Female,Home and lifestyle,82.62,3.0,19.34,247.86,2024-01-01, Credit card,42.72
+INV1192,C,Normal,Male,Home and lifestyle,96.64,2.4655172413793105,1.09,238.26758620689657,2024-04-01,Ewallet ,28.889285714285716
+INV1193,B,Member,Male,Fashion accessories,95.0,1.0,19.08,95.0,2024-01-02,Cash,47.7
+INV1194,A,Member,Female,Home and lifestyle,22.7,2.4655172413793105,13.14,55.967241379310344,2024-03-01,Ewallet ,28.889285714285716
+ INV1195 ,C,Member,Female,Sports and travel,46.58,2.0,17.49,93.16,2024-04-01,Cash,38.13
+INV1196,B,Normal,Male,Food and beverages ,39.16,4.0,9.64,156.64,2024-04-01,Ewallet ,19.86
+INV1197,A,Normal,Male, Electronic accessories ,17.82,3.0,10.8,53.46,2024-04-01,Cash,45.77
+INV1198,C,Normal,Female, Electronic accessories ,66.99,4.0,10.29,267.96,2024-01-02,Cash,17.0
+INV1199,C,Member,Male,Fashion accessories,76.23,2.4655172413793105,13.67,187.94637931034484,2024-04-01, Credit card,37.62
+ INV1200 ,A,Normal,Male,Home and lifestyle,86.33,3.0,3.65,258.99,2024-01-02,Cash,28.889285714285716
+INV1201,A,Normal,Male,Home and lifestyle,21.05,2.4655172413793105,1.57,51.89913793103449,2024-01-02, Credit card,6.87
+INV1202,A,Normal,Female,Health & Beauty,88.88,2.0,6.85,177.76,2024-01-02, Credit card,22.89
+INV1203,C,Normal,Female,Food and beverages ,67.86,1.0,14.39,67.86,2024-03-01, Credit card,39.3
+INV1204,A,Member,Female,Sports and travel,73.36,3.0,4.84,220.07999999999998,2024-03-01,Ewallet ,25.47
+ INV1205 ,B,Member,Female, Electronic accessories ,91.96,2.0,13.8,183.92,2024-04-01,Ewallet ,17.03
+INV1206,A,Normal,Female,Health & Beauty,66.23,2.0,19.43,132.46,2024-04-01,Ewallet ,28.889285714285716
+INV1207,A,Member,Female,Health & Beauty,40.23,3.0,2.78,120.69,2024-03-01,Ewallet ,10.92
+INV1208,C,Member,Female,Fashion accessories,84.26,2.4655172413793105,13.78,207.7444827586207,2024-01-01,Cash,43.57
+INV1209,B,Normal,Male, Electronic accessories ,42.68,2.0,9.43,85.36,2024-03-01,Cash,30.89
+ INV1210 ,C,Normal,Male,Fashion accessories,13.08,4.0,17.49,52.32,2024-01-02,Ewallet ,8.44
+INV1211,A,Member,Male,Sports and travel,84.76,2.0,4.37,169.52,2024-03-01,Cash,22.22
+INV1212,B,Normal,Male,Health & Beauty,41.07,2.4655172413793105,14.16,101.25879310344828,2024-01-02,Cash,21.55
+INV1213,A,Member,Male,Health & Beauty,79.65,2.4655172413793105,16.92,196.3784482758621,2024-04-01, Credit card,13.18
+INV1214,A,Normal,Male,Food and beverages ,42.65,4.0,18.95,170.6,2024-01-01, Credit card,24.6
+ INV1215 ,C,Member,Male,Sports and travel,87.5,2.0,13.98,175.0,2024-04-01, Credit card,19.94
+INV1216,A,Normal,Female,Health & Beauty,29.76,2.4655172413793105,10.45,73.37379310344828,2024-01-02, Credit card,20.38
+INV1217,B,Member,Female,Sports and travel,97.71,3.0,12.74,293.13,2024-01-02,Cash,38.26
+INV1218,B,Member,Male, Electronic accessories ,80.18,1.0,17.51,80.18,2024-01-02,Ewallet ,15.05
+INV1219,A,Member,Male,Home and lifestyle,20.28,1.0,11.84,20.28,2024-01-01,Cash,33.88
+ INV1220 ,C,Normal,Female,Health & Beauty,60.92,1.0,1.58,60.92,2024-03-01,Cash,30.68
+INV1221,B,Member,Male,Food and beverages ,98.68,2.0,18.69,197.36,2024-04-01,Cash,30.56
+INV1222,A,Member,Male, Electronic accessories ,52.4,4.0,14.1,209.6,2024-04-01, Credit card,34.84
+INV1223,A,Normal,Female,Sports and travel,26.39,2.4655172413793105,13.85,65.06500000000001,2024-03-01, Credit card,28.889285714285716
+INV1224,C,Normal,Male,Fashion accessories,53.63,3.0,5.1,160.89000000000001,2024-04-01, Credit card,44.57
+ INV1225 ,C,Member,Female, Electronic accessories ,56.12,3.0,13.52,168.35999999999999,2024-01-01,Ewallet ,35.4
+INV1226,B,Member,Male,Health & Beauty,76.75,2.0,8.48,153.5,2024-04-01,Cash,29.61
+INV1227,B,Normal,Female,Sports and travel,72.9,1.0,13.37,72.9,2024-01-02,Ewallet ,42.34
+INV1228,A,Normal,Female,Home and lifestyle,46.23,2.0,3.03,92.46,2024-03-01, Credit card,32.28
+INV1229,B,Normal,Female, Electronic accessories ,29.62,4.0,13.5,118.48,2024-01-01,Ewallet ,18.1
+ INV1230 ,C,Normal,Male,Health & Beauty,68.05,4.0,19.99,272.2,2024-03-01,Cash,14.32
+INV1231,A,Normal,Female,Food and beverages ,47.95,2.4655172413793105,1.92,118.22155172413794,2024-01-01,Cash,11.85
+INV1232,C,Member,Male,Fashion accessories,21.9,2.4655172413793105,19.57,53.994827586206895,2024-01-02, Credit card,45.48
+INV1233,C,Normal,Male,Sports and travel,91.05,4.0,8.73,364.2,2024-03-01, Credit card,36.96
+INV1234,A,Member,Male, Electronic accessories ,72.21,4.0,17.54,288.84,2024-04-01,Ewallet ,47.18
+ INV1235 ,C,Member,Male, Electronic accessories ,71.49,4.0,15.87,285.96,2024-01-01, Credit card,32.15
+INV1236,B,Member,Female,Home and lifestyle,84.03,2.0,11.77,168.06,2024-03-01, Credit card,26.3
+INV1237,A,Normal,Female,Home and lifestyle,57.67,4.0,15.03,230.68,2024-04-01,Cash,7.69
+INV1238,B,Member,Male,Food and beverages ,83.35,3.0,17.69,250.04999999999998,2024-03-01, Credit card,35.22
+INV1239,C,Member,Male,Fashion accessories,54.83,1.0,8.68,54.83,2024-03-01, Credit card,28.889285714285716
+ INV1240 ,C,Normal,Female,Food and beverages ,16.05,4.0,7.21,64.2,2024-03-01,Cash,49.56
+INV1241,C,Member,Male,Health & Beauty,46.47,1.0,13.68,46.47,2024-01-01,Cash,15.76
+INV1242,A,Member,Female,Health & Beauty,54.77,2.0,16.35,109.54,2024-04-01,Ewallet ,28.889285714285716
+INV1243,A,Normal,Male,Food and beverages ,74.82,1.0,15.48,74.82,2024-01-02, Credit card,34.29
+INV1244,A,Member,Male,Fashion accessories,19.59,2.0,16.16,39.18,2024-01-01,Cash,34.01
+ INV1245 ,C,Member,Female,Food and beverages ,22.6,3.0,9.28,67.80000000000001,2024-01-01,Ewallet ,30.26
+INV1246,C,Member,Male,Fashion accessories,33.73,2.0,16.54,67.46,2024-01-01,Ewallet ,39.96
+INV1247,B,Normal,Female,Fashion accessories,33.98,2.0,3.28,67.96,2024-01-02, Credit card,14.22
+INV1248,C,Normal,Male,Sports and travel,75.9,2.4655172413793105,11.35,187.13275862068969,2024-04-01, Credit card,37.65
+INV1249,A,Normal,Male,Fashion accessories,32.57,4.0,1.11,130.28,2024-04-01,Ewallet ,32.89
+ INV1250 ,A,Member,Male,Home and lifestyle,66.98,4.0,7.17,267.92,2024-04-01,Cash,45.32
+INV1251,C,Member,Female,Fashion accessories,54.48,3.0,7.96,163.44,2024-03-01,Ewallet ,43.12
+INV1252,A,Normal,Male,Fashion accessories,61.6,3.0,8.53,184.8,2024-03-01, Credit card,19.18
+INV1253,C,Member,Male,Fashion accessories,85.43,4.0,14.21,341.72,2024-03-01,Cash,17.43
+INV1254,B,Member,Male,Health & Beauty,46.39,2.4655172413793105,8.38,114.37534482758622,2024-01-02,Cash,49.17
+ INV1255 ,C,Normal,Male,Home and lifestyle,79.38,4.0,9.53,317.52,2024-03-01,Ewallet ,28.73
+INV1256,C,Normal,Female,Home and lifestyle,47.98,2.4655172413793105,5.51,118.29551724137932,2024-01-02, Credit card,45.79
+INV1257,A,Member,Female,Food and beverages ,41.85,3.0,8.09,125.55000000000001,2024-04-01,Ewallet ,12.37
+INV1258,A,Member,Male,Sports and travel,96.28,1.0,5.32,96.28,2024-03-01,Ewallet ,33.93
+INV1259,A,Member,Female,Fashion accessories,26.59,3.0,2.39,79.77,2024-03-01,Ewallet ,41.44
+ INV1260 ,A,Normal,Male, Electronic accessories ,18.13,3.0,12.47,54.39,2024-01-01,Cash,47.63
+INV1261,B,Normal,Male,Sports and travel,79.39,2.0,13.7,158.78,2024-01-02,Cash,20.18
+INV1262,A,Normal,Male,Sports and travel,16.14,2.0,12.77,32.28,2024-04-01, Credit card,37.62
+INV1263,C,Normal,Female,Home and lifestyle,85.34,2.0,9.81,170.68,2024-01-01, Credit card,29.25
+INV1264,A,Member,Female,Sports and travel,49.35,2.0,8.22,98.7,2024-01-01,Ewallet ,7.73
+ INV1265 ,A,Normal,Female,Fashion accessories,92.4,2.4655172413793105,17.4,227.8137931034483,2024-04-01,Ewallet ,36.05
+INV1266,A,Normal,Female,Fashion accessories,74.94,4.0,10.86,299.76,2024-01-01,Ewallet ,36.05
+INV1267,B,Normal,Female,Health & Beauty,64.94,1.0,10.1,64.94,2024-01-02, Credit card,46.88
+INV1268,C,Normal,Female,Fashion accessories,95.44,3.0,1.49,286.32,2024-01-02,Cash,27.38
+INV1269,B,Normal,Female,Fashion accessories,45.7,2.4655172413793105,7.48,112.6741379310345,2024-03-01,Cash,15.36
+ INV1270 ,C,Member,Female,Home and lifestyle,95.87,1.0,8.22,95.87,2024-01-01,Ewallet ,7.01
+INV1271,A,Member,Female,Fashion accessories,22.15,2.4655172413793105,8.58,54.61120689655172,2024-03-01,Ewallet ,23.7
+INV1272,B,Normal,Male,Health & Beauty,53.54,2.4655172413793105,12.02,132.0037931034483,2024-01-01,Ewallet ,18.59
+INV1273,A,Member,Female, Electronic accessories ,34.29,3.0,11.14,102.87,2024-01-02,Ewallet ,39.25
+INV1274,A,Normal,Female,Home and lifestyle,58.59,4.0,12.55,234.36,2024-01-02, Credit card,20.94
+ INV1275 ,A,Normal,Female, Electronic accessories ,24.58,2.0,15.53,49.16,2024-01-02,Cash,47.71
+INV1276,A,Member,Female,Home and lifestyle,85.74,4.0,16.45,342.96,2024-01-01,Ewallet ,48.3
+INV1277,B,Member,Female,Food and beverages ,86.18,3.0,14.64,258.54,2024-01-02, Credit card,32.94
+INV1278,A,Normal,Female,Sports and travel,95.97,3.0,19.15,287.90999999999997,2024-01-01,Ewallet ,46.79
+INV1279,C,Normal,Female,Food and beverages ,23.92,3.0,1.35,71.76,2024-03-01,Ewallet ,39.24
+ INV1280 ,A,Normal,Female,Fashion accessories,66.1,1.0,4.72,66.1,2024-01-01,Cash,29.61
+INV1281,B,Member,Female, Electronic accessories ,52.68,4.0,1.14,210.72,2024-03-01,Ewallet ,13.11
+INV1282,B,Normal,Female,Fashion accessories,40.99,4.0,13.3,163.96,2024-01-01,Cash,28.889285714285716
+INV1283,C,Normal,Female,Sports and travel,41.64,2.4655172413793105,18.06,102.66413793103449,2024-03-01,Cash,30.24
+INV1284,A,Normal,Male,Home and lifestyle,47.15,2.4655172413793105,5.63,116.24913793103448,2024-01-02,Cash,43.88
+ INV1285 ,A,Member,Male,Sports and travel,73.44,2.4655172413793105,18.61,181.06758620689655,2024-03-01, Credit card,28.889285714285716
+INV1286,C,Normal,Female,Health & Beauty,63.85,3.0,2.15,191.55,2024-01-02, Credit card,45.4
+INV1287,C,Normal,Female,Sports and travel,51.37,4.0,18.75,205.48,2024-01-02,Cash,35.35
+INV1288,C,Member,Male,Health & Beauty,16.83,3.0,7.68,50.489999999999995,2024-03-01,Ewallet ,28.889285714285716
+INV1289,A,Normal,Female,Sports and travel,17.0,1.0,2.93,17.0,2024-01-01,Cash,49.77
+ INV1290 ,C,Normal,Male,Health & Beauty,10.21,2.4655172413793105,10.23,25.17293103448276,2024-01-01,Ewallet ,28.73
+INV1291,A,Member,Male, Electronic accessories ,97.09,3.0,5.88,291.27,2024-04-01,Cash,22.63
+INV1292,A,Normal,Male,Fashion accessories,10.47,3.0,6.41,31.410000000000004,2024-01-01,Ewallet ,28.889285714285716
+INV1293,C,Member,Male,Fashion accessories,19.28,1.0,6.84,19.28,2024-04-01, Credit card,9.9
+INV1294,A,Member,Male,Food and beverages ,38.31,2.0,16.26,76.62,2024-01-01,Ewallet ,33.64
+ INV1295 ,A,Normal,Female,Fashion accessories,82.67,4.0,11.24,330.68,2024-01-01,Cash,27.42
+INV1296,C,Normal,Male,Home and lifestyle,96.59,2.0,6.91,193.18,2024-01-02, Credit card,23.3
+INV1297,A,Normal,Female,Sports and travel,81.1,2.4655172413793105,12.6,199.95344827586206,2024-04-01,Ewallet ,47.89
+INV1298,C,Normal,Female,Food and beverages ,72.15,3.0,14.61,216.45000000000002,2024-01-01,Ewallet ,28.51
+INV1299,C,Member,Male,Home and lifestyle,56.92,1.0,6.18,56.92,2024-04-01,Ewallet ,14.86
